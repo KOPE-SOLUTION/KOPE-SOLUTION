@@ -4,12 +4,12 @@
 
 # 👋 Hello, I'm Kittisak Hanheam
 
-💡 **IoT Developer | Embedded Systems | Exploring AIoT, IIoT, Rust, and PLC**
+💡 **AIoT Full Stack Developer | Embedded Systems | System Integration, Security & Deployment**
 
-I enjoy building systems that connect **hardware, sensors, networks, and software** to solve practical problems in the real world.
+I enjoy building systems that connect **hardware, sensors, networks, software, and deployment workflows** to solve practical problems in the real world.
 
 My background comes from **industrial electronics, embedded development, IoT systems, and hands-on R&D work**.  
-Right now, I am continuing to grow my skills in **Rust, PLC programming, and Industrial IoT** step by step.
+Right now, I am exploring and strengthening my path in **IIoT, Rust, PLC, SCADA, and Industrial Automation** step by step.
 
 ---
 
@@ -17,13 +17,15 @@ Right now, I am continuing to grow my skills in **Rust, PLC programming, and Ind
 
 My technical journey started from working with **electronics, field devices, and environmental monitoring systems**.
 
-Over time, I moved into **IoT development and embedded systems**, with experience in areas such as:
+Over time, I moved deeper into **IoT development, embedded systems, and practical system integration**, with experience in areas such as:
 
 - Sensor integration
 - Microcontrollers
 - Embedded programming
 - Network connectivity
 - IoT dashboards and monitoring systems
+- Device deployment and field integration
+- Security-aware system design for connected environments
 
 Even though I did not graduate directly from an engineering faculty, I have built my skills through **real projects, practical work, R&D support, and continuous learning**.
 
@@ -107,16 +109,17 @@ YOLO • MobileNet SSD • ONNX • ROS2 *(basic / practical exposure)*
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Exploring
 
-I am currently learning and improving in these areas:
+I am currently exploring and improving in these areas:
 
-- **Rust** for system and backend development
-- **PLC programming** for industrial automation
-- **IIoT concepts and architectures**
-- Edge computing and smarter monitoring systems
+- **IIoT** concepts and architectures
+- **Rust** for systems and backend development
+- **PLC and SCADA** for industrial automation workflows
+- **Industrial Automation** and smarter monitoring systems
+- Practical **system integration, deployment, and security-oriented thinking**
 
-I prefer to describe these as **learning goals and growth areas**, not as expert-level skills yet.
+I prefer to describe these as **active growth areas**, not as expert-level skills yet.
 
 ---
 
@@ -125,10 +128,12 @@ I prefer to describe these as **learning goals and growth areas**, not as expert
 Topics I enjoy exploring:
 
 - Embedded systems
-- IoT and connected devices
-- AIoT applications
+- AIoT and connected devices
+- Industrial IoT (IIoT)
 - Industrial monitoring systems
 - Smart farm and environmental sensing
+- System integration and deployment
+- Industrial automation and SCADA environments
 - Edge AI experiments
 
 ---
@@ -156,6 +161,7 @@ Dashboard --> User
 - Raspberry Pi experiments
 - Dashboard and data visualization
 - Learning-focused Rust and PLC projects
+- Industrial integration practice and deployment experiments
 
 ---
 
@@ -166,6 +172,7 @@ Dashboard --> User
 - Edge AI Person Detection Experiment
 - Rust MQTT Learning Project
 - LoRaWAN Environmental Monitoring
+- PLC / SCADA Learning Integration Lab
 
 > These represent the kinds of projects I am building or studying toward.
 
