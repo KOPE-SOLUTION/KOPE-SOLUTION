@@ -16,7 +16,7 @@ I work on embedded systems and IoT, from wiring sensors and writing firmware to 
 
 | Years | Work |
 | --- | --- |
-| 2024–present | Develop AIoT systems with data engineering and machine vision. Build Smart Farm sensor prototypes, embedded firmware, and web, mobile, and desktop apps, including research interfaces. Help plan and coordinate technical work. |
+| 2024–present | Develop AIoT systems with **data engineering and machine vision**. Build Smart Farm prototypes, firmware, and web/mobile/desktop apps. Help plan and coordinate technical work. |
 | 2024 | **IoT Engineer.** ESP32, Arduino, and LoRaWAN sensor integration. Helped test tracking and live dashboards. |
 | 2021–2024 | **IoT Development.** Built firmware and PCB prototypes; integrated sensors and devices in R&D and field work. Used Raspberry Pi and Jetson Nano. |
 | 2019–2021 | Designed PCBs, prepared bills of materials, and tested hardware. |
