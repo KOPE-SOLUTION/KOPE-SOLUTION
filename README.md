@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile/banner-v2.svg" width="100%" alt="Kittisak Hanheam — KOPE SOLUTION. Full-stack AIoT and embedded systems; web, desktop, and mobile apps; integration, security, and deployment. Exploring adaptive on-site problem-solving and decisive judgment." />
+  <img src="assets/profile/banner-v3.svg" width="100%" alt="Kittisak Hanheam — KOPE SOLUTION. Full-stack AIoT, embedded systems, multiplatform apps, and systems integration. Exploring IIoT, PLC, SCADA, industrial automation, adaptive on-site problem-solving, and decisive judgment." />
 </p>
 
 # Hi, I'm Kope
