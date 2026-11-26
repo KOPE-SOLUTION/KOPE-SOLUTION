@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner_engineer.svg" width="100%" alt="Kittisak Hanheam — IoT, embedded systems and software development" />
+</p>
+
 # Hi, I'm Kope
 
 I work on embedded systems and IoT, from wiring sensors and writing firmware to building the web dashboards and mobile apps people use to check what a device is doing. My background is in industrial electronics, field instrumentation, and hands-on R&D.
@@ -41,3 +45,9 @@ I work on embedded systems and IoT, from wiring sensors and writing firmware to 
 
 **Keen · Observe · Pioneer · Empower**  
 CONTRIBUTE — Build things that are useful to others.
+
+## GitHub activity
+
+![GitHub Stats for KOPE-SOLUTION](https://github-readme-stats.vercel.app/api?username=KOPE-SOLUTION&show_icons=true)
+
+![Top languages in KOPE-SOLUTION repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=KOPE-SOLUTION&layout=compact)
