@@ -8,18 +8,11 @@ I work on embedded systems and IoT, from wiring sensors and writing firmware to 
 
 [KOPE SOLUTION website](https://kope-solution.github.io/knowledge-hub/) · [YouTube @KOPESOLUTION](https://www.youtube.com/@KOPESOLUTION)
 
-## Professional Profile
+## Professional experience
 
 <a href="https://raw.githubusercontent.com/KOPE-SOLUTION/KOPE-SOLUTION/main/assets/profile/professional-profile.jpg"><img src="assets/profile/professional-profile-thumb.jpg" width="360" alt="Career timeline from left to right: 2016–2018 air quality instrumentation, 2019–2021 PCB design, 2021–2024 IoT development, 2024 IoT Engineer, 2024–present Smart Farm research" /></a>
 
 *Select any illustration to open it full size.*
-
-- **2021–2024 · IoT Development:** Developed embedded firmware and PCB prototypes, integrated sensors and connected devices, and supported R&D and field integration, including work with Raspberry Pi and Jetson Nano.
-- **2024 · IoT Engineer:** Worked with ESP32 and Arduino devices, integrated sensors and LoRaWAN connectivity, and helped test tracking systems and real-time monitoring dashboards.
-
-## Professional experience
-
-<a href="https://raw.githubusercontent.com/KOPE-SOLUTION/KOPE-SOLUTION/main/assets/profile/professional-experience.jpg"><img src="assets/profile/professional-experience-thumb.jpg" width="360" alt="Professional work: Smart Farm research, IoT development and field integration, and PCB design and testing" /></a>
 
 | Years | Work |
 | --- | --- |
@@ -28,6 +21,9 @@ I work on embedded systems and IoT, from wiring sensors and writing firmware to 
 | 2021–2024 | Developed firmware and PCB prototypes and supported embedded R&D and field integration. |
 | 2019–2021 | Designed PCBs, prepared bills of materials, and tested hardware. |
 | 2016–2018 | Maintained sensors and field instruments used to monitor air quality. |
+
+- **2021–2024 · IoT Development:** Integrated sensors and connected devices in R&D and field work, including work with Raspberry Pi and Jetson Nano.
+- **2024 · IoT Engineer:** Worked with ESP32 and Arduino devices and integrated sensors for LoRaWAN projects.
 
 ## Part-time work
 
