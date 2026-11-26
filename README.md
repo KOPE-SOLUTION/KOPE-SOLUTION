@@ -1,14 +1,25 @@
 <p align="center">
-  <img src="assets/banner_engineer.svg" width="100%" alt="Kittisak Hanheam — IoT, embedded systems and software development" />
+  <img src="assets/profile/banner.svg" width="100%" alt="Kittisak Hanheam — KOPE SOLUTION. AIoT, embedded systems, and web, desktop, and mobile apps." />
 </p>
 
 # Hi, I'm Kope
 
-I work on embedded systems and IoT, from wiring sensors and writing firmware to building the web dashboards and mobile apps people use to check what a device is doing. My background is in industrial electronics, field instrumentation, and hands-on R&D.
+I work on embedded systems and IoT, from wiring sensors and writing firmware to building web, desktop, and mobile apps that help people see what their devices are doing. My background is in industrial electronics, field instrumentation, and hands-on R&D.
 
 [KOPE SOLUTION website](https://kope-solution.github.io/knowledge-hub/) · [YouTube @KOPESOLUTION](https://www.youtube.com/@KOPESOLUTION)
 
+## Professional Profile
+
+<a href="assets/profile/professional-profile.jpg"><img src="assets/profile/professional-profile-thumb.jpg" width="360" alt="Career timeline from left to right: 2016–2018 air quality instrumentation, 2019–2021 PCB design, 2021–2024 IoT development, 2024 IoT Engineer, 2024–present Smart Farm research" /></a>
+
+*Select any illustration to open it full size.*
+
+- **2021–2024 · IoT Development:** Developed embedded firmware and PCB prototypes, integrated sensors and connected devices, and supported R&D and field integration, including work with Raspberry Pi and Jetson Nano.
+- **2024 · IoT Engineer:** Worked with ESP32 and Arduino devices, integrated sensors and LoRaWAN connectivity, and helped test tracking systems and real-time monitoring dashboards.
+
 ## Professional experience
+
+<a href="assets/profile/professional-experience.jpg"><img src="assets/profile/professional-experience-thumb.jpg" width="360" alt="Professional work: Smart Farm research, IoT development and field integration, and PCB design and testing" /></a>
 
 | Years | Work |
 | --- | --- |
@@ -20,13 +31,17 @@ I work on embedded systems and IoT, from wiring sensors and writing firmware to 
 
 ## Part-time work
 
-- **Delivery:** Worked as a courier rider.
+<a href="assets/profile/part-time-work.jpg"><img src="assets/profile/part-time-work-thumb.jpg" width="360" alt="Part-time work: sensor testing, CCTV installation, and installing measurement instruments in a factory" /></a>
+
 - **Testing and R&D:** Tested industrial instruments and sensors before shipment, developed proofs of concept, and put together hands-on learning kits.
-- **Installation and integration:** Installed CCTV and worked on access-control systems for doors, elevators, and parking facilities.
+- **Installation and integration:** Installed CCTV, helped install industrial measuring instruments in factories, and worked on access-control systems for doors, elevators, and parking facilities.
 
 ## Personal projects and research interests
 
-- **Robotics:** Exploring robots for land, water-surface, underwater, and aerial environments, as well as humanoid robotics.
+<a href="assets/profile/personal-projects.jpg"><img src="assets/profile/personal-projects-thumb.jpg" width="360" alt="Personal lab experiments in display integration, computer vision with drones and robots, and connected platforms" /></a>
+
+- **Displays & connected platforms:** I experiment with external displays and prototype systems that connect devices, apps, and dashboards.
+- **Computer vision & robotics:** I experiment with drones, wheeled robots, and robotic arms, exploring how cameras can help them detect objects and respond. I’m also interested in surface, underwater, and humanoid robots.
 - **Games, fiction, and future cities:** Researching how technology and urban systems can shape games and science-fiction stories.
 - **AI and public accountability:** Exploring how AI-assisted audits could flag unusual patterns for human review and help make decisions easier to trace.
 - **Knowledge sharing:** Started the KOPE SOLUTION website in 2026 to collect technical notes and experiments. I share tutorials and playlists on YouTube.
@@ -34,16 +49,19 @@ I work on embedded systems and IoT, from wiring sensors and writing firmware to 
 ## What I do
 
 - **Embedded & IoT:** Develop firmware for ESP32 and Arduino, integrate sensors, and connect devices using MQTT, Modbus, and LoRaWAN.
-- **Web & mobile development:** Build web interfaces, dashboards, and mobile apps that work with connected devices.
+- **Web, desktop & mobile apps:** Build full-stack web apps, desktop apps, and mobile apps, including dashboards and interfaces for connected devices.
+- **Integration, security & deployment:** Connect devices to the systems that use them, with attention to how they are deployed, maintained, and accessed.
 - **AI-assisted development:** Use AI tools to investigate logs, compare approaches, draft tests, and write documentation. I check the output against the code or measurements before relying on it.
 
 ## Currently exploring
 
 - **Technical project management:** Breaking technical work into milestones, prioritizing tasks, and coordinating between developers and the people using the system.
+- **People management:** Learning to set clear expectations, delegate work, give useful feedback, and support teammates' growth.
 - **Data-driven decision-making:** Using device data and test results to decide what to fix first and check whether a change helped.
 - **Technical support and team enablement:** Writing troubleshooting guides and handover notes so a team can maintain a system and diagnose problems without depending on one person.
+- **Industrial systems and programming:** IIoT, PLC, SCADA, industrial automation, Rust, and Mojo.
 
-**Keen · Observe · Pioneer · Empower**  
+**Keen · Observe · Pioneer · Empower**\
 CONTRIBUTE — Build things that are useful to others.
 
 ## GitHub activity
