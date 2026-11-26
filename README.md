@@ -39,7 +39,7 @@ I work on embedded systems and IoT, from wiring sensors and writing firmware to 
 - **Machine Vision & robotics:** I experiment with cameras and computer vision for drones, wheeled robots, and robotic arms, exploring how they can detect objects and respond. I’m also interested in surface, underwater, and humanoid robots.
 - **Games, fiction, and future cities:** Researching how technology and urban systems can shape games and science-fiction stories.
 - **AI and public accountability:** Exploring how AI-assisted audits could flag unusual patterns for human review and help make decisions easier to trace.
-- **Knowledge sharing:** Started the KOPE SOLUTION website in 2026 to collect technical notes and experiments. I share tutorials and playlists on YouTube.
+- **Knowledge sharing:** Started the KOPE SOLUTION website in 2026 to collect technical notes and experiments.
 
 ## What I do
 
@@ -50,11 +50,13 @@ I work on embedded systems and IoT, from wiring sensors and writing firmware to 
 
 ## Currently exploring
 
-- **Technical project management:** Breaking technical work into milestones, prioritizing tasks, and coordinating between developers and the people using the system.
-- **People management:** Learning to set clear expectations, delegate work, give useful feedback, and support teammates' growth.
-- **Data-driven decision-making:** Using device data and test results to decide what to fix first and check whether a change helped.
-- **Adaptive on-site problem-solving and decisive judgment:** Adapting to changing site conditions, choosing a clear next step under time pressure, and documenting the handover.
-- **Industrial systems and programming:** IIoT, PLC, SCADA, industrial automation, Rust, and Mojo.
+I’m curious about how things work and how to make them better. I take time each day to study, test ideas, and reflect on what worked and what didn’t. I share practical lessons and tutorials on [YouTube @KOPESOLUTION](https://www.youtube.com/@KOPESOLUTION).
+
+- **Project and people management:** Planning milestones, prioritizing work, and coordinating with developers and users. Learning to set clear expectations, delegate, and give useful feedback.
+- **Data-driven decisions:** Using device data and test results to decide what to fix first and check whether a change helped.
+- **On-site problem-solving and decisive judgment:** Adapting when conditions change, choosing a clear next step under pressure, and documenting the handover.
+- **Industrial systems:** Exploring Industrial IoT (IIoT), PLCs, SCADA, and industrial automation.
+- **Programming:** Studying Rust and Mojo and exploring where each fits.
 
 **Keen · Observe · Pioneer · Empower**\
 CONTRIBUTE — Build things that are useful to others.
