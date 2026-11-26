@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile/banner.svg" width="100%" alt="Kittisak Hanheam — KOPE SOLUTION. AIoT, embedded systems, and web, desktop, and mobile apps." />
+  <img src="assets/profile/banner.svg" width="100%" alt="Kittisak Hanheam — KOPE SOLUTION. Full-stack AIoT, embedded systems, and web, desktop, and mobile apps. System integration, security, and deployment." />
 </p>
 
 # Hi, I'm Kope
