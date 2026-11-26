@@ -34,7 +34,9 @@ I work on embedded systems and IoT, from wiring sensors and writing firmware to 
 <a href="https://raw.githubusercontent.com/KOPE-SOLUTION/KOPE-SOLUTION/main/assets/profile/personal-projects.jpg"><img src="assets/profile/personal-projects-thumb.jpg" width="360" alt="Personal lab experiments in display integration, computer vision with drones and robots, and connected platforms" /></a>
 
 - **Displays & connected platforms:** I experiment with external displays and prototype systems that connect devices, apps, and dashboards.
-- **Computer vision & robotics:** I experiment with drones, wheeled robots, and robotic arms, exploring how cameras can help them detect objects and respond. I’m also interested in surface, underwater, and humanoid robots.
+- **Machine Learning & Deep Learning:** I revisit model fundamentals and run small experiments to understand how data preparation and model choices affect predictions.
+- **Data Engineering:** I study how to collect, clean, and organize data from connected devices, and prototype data flows for analysis.
+- **Machine Vision & robotics:** I experiment with cameras and computer vision for drones, wheeled robots, and robotic arms, exploring how they can detect objects and respond. I’m also interested in surface, underwater, and humanoid robots.
 - **Games, fiction, and future cities:** Researching how technology and urban systems can shape games and science-fiction stories.
 - **AI and public accountability:** Exploring how AI-assisted audits could flag unusual patterns for human review and help make decisions easier to trace.
 - **Knowledge sharing:** Started the KOPE SOLUTION website in 2026 to collect technical notes and experiments. I share tutorials and playlists on YouTube.
