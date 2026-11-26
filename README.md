@@ -10,7 +10,7 @@ I work on embedded systems and IoT, from wiring sensors and writing firmware to 
 
 ## Professional Profile
 
-<a href="assets/profile/professional-profile.jpg"><img src="assets/profile/professional-profile-thumb.jpg" width="360" alt="Career timeline from left to right: 2016–2018 air quality instrumentation, 2019–2021 PCB design, 2021–2024 IoT development, 2024 IoT Engineer, 2024–present Smart Farm research" /></a>
+<a href="https://raw.githubusercontent.com/KOPE-SOLUTION/KOPE-SOLUTION/main/assets/profile/professional-profile.jpg"><img src="assets/profile/professional-profile-thumb.jpg" width="360" alt="Career timeline from left to right: 2016–2018 air quality instrumentation, 2019–2021 PCB design, 2021–2024 IoT development, 2024 IoT Engineer, 2024–present Smart Farm research" /></a>
 
 *Select any illustration to open it full size.*
 
@@ -19,7 +19,7 @@ I work on embedded systems and IoT, from wiring sensors and writing firmware to 
 
 ## Professional experience
 
-<a href="assets/profile/professional-experience.jpg"><img src="assets/profile/professional-experience-thumb.jpg" width="360" alt="Professional work: Smart Farm research, IoT development and field integration, and PCB design and testing" /></a>
+<a href="https://raw.githubusercontent.com/KOPE-SOLUTION/KOPE-SOLUTION/main/assets/profile/professional-experience.jpg"><img src="assets/profile/professional-experience-thumb.jpg" width="360" alt="Professional work: Smart Farm research, IoT development and field integration, and PCB design and testing" /></a>
 
 | Years | Work |
 | --- | --- |
@@ -31,14 +31,14 @@ I work on embedded systems and IoT, from wiring sensors and writing firmware to 
 
 ## Part-time work
 
-<a href="assets/profile/part-time-work.jpg"><img src="assets/profile/part-time-work-thumb.jpg" width="360" alt="Part-time work: sensor testing, CCTV installation, and installing measurement instruments in a factory" /></a>
+<a href="https://raw.githubusercontent.com/KOPE-SOLUTION/KOPE-SOLUTION/main/assets/profile/part-time-work.jpg"><img src="assets/profile/part-time-work-thumb.jpg" width="360" alt="Part-time work: sensor testing, CCTV installation, and installing measurement instruments in a factory" /></a>
 
 - **Testing and R&D:** Tested industrial instruments and sensors before shipment, developed proofs of concept, and put together hands-on learning kits.
 - **Installation and integration:** Installed CCTV, helped install industrial measuring instruments in factories, and worked on access-control systems for doors, elevators, and parking facilities.
 
 ## Personal projects and research interests
 
-<a href="assets/profile/personal-projects.jpg"><img src="assets/profile/personal-projects-thumb.jpg" width="360" alt="Personal lab experiments in display integration, computer vision with drones and robots, and connected platforms" /></a>
+<a href="https://raw.githubusercontent.com/KOPE-SOLUTION/KOPE-SOLUTION/main/assets/profile/personal-projects.jpg"><img src="assets/profile/personal-projects-thumb.jpg" width="360" alt="Personal lab experiments in display integration, computer vision with drones and robots, and connected platforms" /></a>
 
 - **Displays & connected platforms:** I experiment with external displays and prototype systems that connect devices, apps, and dashboards.
 - **Computer vision & robotics:** I experiment with drones, wheeled robots, and robotic arms, exploring how cameras can help them detect objects and respond. I’m also interested in surface, underwater, and humanoid robots.
