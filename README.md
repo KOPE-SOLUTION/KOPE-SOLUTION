@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile/banner.svg" width="100%" alt="Kittisak Hanheam — KOPE SOLUTION. Full-stack AIoT, embedded systems, and web, desktop, and mobile apps. System integration, security, and deployment." />
+  <img src="assets/profile/banner-v2.svg" width="100%" alt="Kittisak Hanheam — KOPE SOLUTION. Full-stack AIoT and embedded systems; web, desktop, and mobile apps; integration, security, and deployment. Exploring adaptive on-site problem-solving and decisive judgment." />
 </p>
 
 # Hi, I'm Kope
@@ -51,7 +51,7 @@ I work on embedded systems and IoT, from wiring sensors and writing firmware to 
 - **Technical project management:** Breaking technical work into milestones, prioritizing tasks, and coordinating between developers and the people using the system.
 - **People management:** Learning to set clear expectations, delegate work, give useful feedback, and support teammates' growth.
 - **Data-driven decision-making:** Using device data and test results to decide what to fix first and check whether a change helped.
-- **Technical support and team enablement:** Writing troubleshooting guides and handover notes so a team can maintain a system and diagnose problems without depending on one person.
+- **Adaptive on-site problem-solving and decisive judgment:** Adapting to changing site conditions, choosing a clear next step under time pressure, and documenting the handover.
 - **Industrial systems and programming:** IIoT, PLC, SCADA, industrial automation, Rust, and Mojo.
 
 **Keen · Observe · Pioneer · Empower**\
