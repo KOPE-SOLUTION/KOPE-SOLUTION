@@ -10,13 +10,13 @@ I work on embedded systems and IoT, from wiring sensors and writing firmware to 
 
 ## Professional experience
 
-<a href="https://raw.githubusercontent.com/KOPE-SOLUTION/KOPE-SOLUTION/main/assets/profile/professional-profile.jpg"><img src="assets/profile/professional-profile-thumb.jpg" width="360" alt="Career timeline from left to right: 2016–2018 air quality instrumentation, 2019–2021 PCB design, 2021–2024 IoT development, 2024 IoT Engineer, 2024–present Smart Farm research" /></a>
+<a href="https://raw.githubusercontent.com/KOPE-SOLUTION/KOPE-SOLUTION/main/assets/profile/professional-timeline.jpg"><img src="assets/profile/professional-timeline-thumb.jpg" width="360" alt="Career timeline from left to right: 2016–2018 air quality instrumentation, 2019–2021 PCB design, 2021–2024 IoT development, 2024 IoT Engineer, and 2024–present AIoT, firmware, Smart Farm, and web, mobile, and desktop apps" /></a>
 
 *Select any illustration to open it full size.*
 
 | Years | Work |
 | --- | --- |
-| 2024–present | Develop Smart Farm and sensor prototypes, build web interfaces for research tools, and help plan and coordinate technical work. |
+| 2024–present | Develop AIoT systems and Smart Farm sensor prototypes, write embedded firmware, and build web, mobile, and desktop apps, including interfaces for research tools. Help plan and coordinate technical work. |
 | 2024 | Integrated connected devices over LoRaWAN and helped test tracking and real-time monitoring dashboards. |
 | 2021–2024 | Developed firmware and PCB prototypes and supported embedded R&D and field integration. |
 | 2019–2021 | Designed PCBs, prepared bills of materials, and tested hardware. |
