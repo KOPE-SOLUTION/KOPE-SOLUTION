@@ -17,13 +17,10 @@ I work on embedded systems and IoT, from wiring sensors and writing firmware to 
 | Years | Work |
 | --- | --- |
 | 2024–present | Develop AIoT systems and Smart Farm sensor prototypes, write embedded firmware, and build web, mobile, and desktop apps, including interfaces for research tools. Help plan and coordinate technical work. |
-| 2024 | Integrated connected devices over LoRaWAN and helped test tracking and real-time monitoring dashboards. |
-| 2021–2024 | Developed firmware and PCB prototypes and supported embedded R&D and field integration. |
+| 2024 | **IoT Engineer.** Worked with ESP32 and Arduino, integrated sensors and connected devices for LoRaWAN projects, and helped test tracking and real-time monitoring dashboards. |
+| 2021–2024 | **IoT Development.** Developed embedded firmware and PCB prototypes. Integrated sensors and connected devices during R&D and field work, including projects using Raspberry Pi and Jetson Nano. |
 | 2019–2021 | Designed PCBs, prepared bills of materials, and tested hardware. |
 | 2016–2018 | Maintained sensors and field instruments used to monitor air quality. |
-
-- **2021–2024 · IoT Development:** Integrated sensors and connected devices in R&D and field work, including work with Raspberry Pi and Jetson Nano.
-- **2024 · IoT Engineer:** Worked with ESP32 and Arduino devices and integrated sensors for LoRaWAN projects.
 
 ## Part-time work
 
