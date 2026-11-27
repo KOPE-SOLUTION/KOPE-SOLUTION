@@ -16,7 +16,7 @@ I work on embedded systems and IoT, from wiring sensors and writing firmware to 
 
 | Years | Work |
 | --- | --- |
-| 2024–present | Develop AIoT systems with **data engineering and machine vision**. Build Smart Farm prototypes, firmware, and web/mobile/desktop apps. Help plan and coordinate technical work. |
+| 2024–present | Develop AIoT systems with **data engineering and machine vision**. Build **local AI** tools for document Q&A and summaries, plus Smart Farm prototypes, firmware, and web/mobile/desktop apps. Help plan and coordinate technical work. |
 | 2024 | **IoT Engineer.** ESP32, Arduino, and LoRaWAN sensor integration. Helped test tracking and live dashboards. |
 | 2021–2024 | **IoT Development.** Built firmware and PCB prototypes; integrated sensors and devices in R&D and field work. Used Raspberry Pi and Jetson Nano. |
 | 2019–2021 | Designed PCBs, prepared bills of materials, and tested hardware. |
@@ -36,6 +36,7 @@ I work on embedded systems and IoT, from wiring sensors and writing firmware to 
 - **Displays & connected platforms:** I experiment with external displays and prototype systems that connect devices, apps, and dashboards.
 - **Machine Learning & Deep Learning:** I revisit model fundamentals and run small experiments to understand how data preparation and model choices affect predictions.
 - **Data Engineering:** I study how to collect, clean, and organize data from connected devices, and prototype data flows for analysis.
+- **Mathematics, Statistics, Physics & Data Analysis:** I’m studying these at a beginner level through practice problems and small data analysis exercises.
 - **Machine Vision & robotics:** I experiment with cameras and computer vision for drones, wheeled robots, and robotic arms, exploring how they can detect objects and respond. I’m also interested in surface, underwater, and humanoid robots.
 - **Games, fiction, and future cities:** Researching how technology and urban systems can shape games and science-fiction stories.
 - **AI and public accountability:** Exploring how AI-assisted audits could flag unusual patterns for human review and help make decisions easier to trace.
